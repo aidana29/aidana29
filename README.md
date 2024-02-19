@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E2BFB3,100:F7DED0&height=200&section=header&text=Hello!&fontColor=FEFBF6&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:647D87,100:6DA4AA&height=200&section=header&text=Hello!&fontColor=FEFBF6&fontSize=90)
 
 
 Here are some ideas to get you started:
