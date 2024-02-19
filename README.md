@@ -6,7 +6,6 @@
 👋🏻 My name is Dana</br>
 🌱 I’m an aspiring full-stack developer just starting my journey</br>
 🇰🇷 Based in Seoul</br>
-🚀 <a href="https://linktw.in/AyKCIb">Check my portfolio </a></span>
 
 <br />
 
