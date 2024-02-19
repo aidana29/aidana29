@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=8CB9BD&height=300&section=header&text=Hello!%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8CB9BD&height=300&section=header&text=Hello!%20&&fontColor=white&fontSize=90)
 
 
 Here are some ideas to get you started:
