@@ -17,11 +17,11 @@
 
 ## Let's Connect
 
-<a href="https://www.linkedin.com/in/dana29/">
+<a href="https://www.linkedin.com/in/dana29/" target="_blank">
   <img height="40" src="linkedin.svg"/>
 </a>
 &nbsp &nbsp
-<a href="https://medium.com/@aidana1529">
+<a href="https://medium.com/@aidana1529" target="_blank">
   <img height="40" src="medium.svg"/>
 </a>
 
